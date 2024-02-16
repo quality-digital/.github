@@ -1,1 +1,3 @@
-./node/* @laricouto @jeanmiguelacct
+node/ @laricouto @jeanmiguelacct
+/node/ @laricouto @jeanmiguelacct
+/node/* @laricouto @jeanmiguelacct
